@@ -20,7 +20,16 @@ Anyways, if you wanna stay in touch, reach me through [here](https://curiouscat.
 
 <img width="35px" align="left" src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466"> <h5><p ><i>ㅤㅤㅤㅤ"Nothing is true, everything is connected"</i></p></h5>
 
+<br>
 
+```c#
+string World;
+
+while (World.equals("ordinary"))
+{
+    string me = "unconventional";
+}
+```
 
 <!--
 <div>
