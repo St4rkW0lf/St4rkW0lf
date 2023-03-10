@@ -4,7 +4,7 @@
 
 ### Hey!
 
-Yo there, Stark here, a big fan of **science** and **technology**. I've always been fascinated by how things work, and I love learning about the latest advancements in these fields.
+Yo there, Stark here, a big fan of **science** and **technology**. I've always been fascinated by how things work, and I love learning about the latest advancements in these fields. 
 
 [![pgp](https://img.shields.io/badge/404-User%20not%20found!-313131)](https://github.com/St4rkW0lf)
 
@@ -18,7 +18,7 @@ In addition to this all, I also have a strong appreciation for artificial intell
 
 Anyways, if you wanna stay in touch, reach me through [here](https://curiouscat.live/stk_operator).
 
-<img width="50px" align="left" src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466"> <h5><p align="center"><i>"Nothing is true, everything is connected"</i></p></h5>
+<img width="35px" align="left" src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466"> <h5><p ><i>ㅤㅤㅤㅤ"Nothing is true, everything is connected"</i></p></h5>
 
 
 
