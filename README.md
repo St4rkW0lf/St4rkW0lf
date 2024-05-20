@@ -1,5 +1,3 @@
-<!-- ![Snake animation](https://github.com/St4rkW0lf/St4rkW0lf/blob/output/github-contribution-grid-snake.svg) -->
-
 <img align="left" src="https://i.imgur.com/g2ChOGq.png">
 
 ### Hey!
@@ -30,6 +28,8 @@ while (World.equals("ordinary"))
     string me = "unconventional";
 }
 ```
+
+![Snake animation](https://github.com/St4rkW0lf/St4rkW0lf/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 <div>
