@@ -2,7 +2,7 @@
 
 ### Hey!
 
-Yo there, Stark here, a big fan of **science** and **technology**. I've always been fascinated by how things work, and I love learning about the latest advancements in these fields. 
+Yo there, Wolf here, a big fan of **science** and **technology**. I've always been fascinated by how things work, and I love learning about the latest advancements in these fields. 
 
 [![pgp](https://img.shields.io/badge/404-User%20not%20found!-313131)](https://github.com/St4rkW0lf)
 
