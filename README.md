@@ -29,7 +29,7 @@ while (World.equals("ordinary"))
 }
 ```
 
-![Snake animation](https://github.com/St4rkW0lf/St4rkW0lf/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/St4rkW0lf/St4rkW0lf/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 <div>
