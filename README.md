@@ -1,40 +1,48 @@
-<img align="left" src="https://i.imgur.com/g2ChOGq.png">
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨_Artist-2f2f2f?style=for-the-badge&logoColor=white&labelColor=2f2f2f&color=2f2f2f">
+  <img src="https://img.shields.io/badge/💻_Developer-2f2f2f?style=for-the-badge&logoColor=white&labelColor=2f2f2f&color=2f2f2f">
+  <img src="https://img.shields.io/badge/🎮_Gamer-2f2f2f?style=for-the-badge&logoColor=white&labelColor=2f2f2f&color=2f2f2f">
+  <img src="https://img.shields.io/badge/🎥_Streamer-2f2f2f?style=for-the-badge&logoColor=white&labelColor=2f2f2f&color=2f2f2f">
+  <img src="https://img.shields.io/badge/✍️_Writer-2f2f2f?style=for-the-badge&logoColor=white&labelColor=2f2f2f&color=2f2f2f">
+</p>
 
-### Hey!
+---
+<br>
+<img align="left" src="https://i.imgur.com/g2ChOGq.png" alt="bin_h4cker">
 
-Yo there, Wolf here, a big fan of **science** and **technology**. I've always been fascinated by how things work, and I love learning about the latest advancements in these fields. 
+### Hey there! [![pgp](https://img.shields.io/badge/404-User%20not%20found!-2f2f2f?style=flat-square&logoColor=white)](https://linktr.ee/shiro.fang)
 
-[![pgp](https://img.shields.io/badge/404-User%20not%20found!-313131)](https://github.com/St4rkW0lf)
+I'm **Wolf** — an **artist**, **gamer**, **streamer**, **developer**, and a **writer** whenever inspiration strikes.  
+Creativity and curiosity drive everything I do — from painting digital worlds to crafting code that comes alive.
+
+
 
 <br>
 
-<img align="right" src="https://i.imgur.com/VCfRtWV.gif">
+<img align="right" src="https://i.imgur.com/VCfRtWV.gif" width="500px">
 
-One area that I find particularly captivating is **security** and **cryptography**. There's just something about encryption, puzzles, and codes that really draws me in, and I've developed quite a crush on this complex and endlessly fascinating field.
+<div align="left" style="text-align: justify; max-width: 65%;">
 
-In addition to this all, I also have a strong appreciation for artificial intelligence. The potential for AI to transform our lives and revolutionize entire industries is truly amazing, and I'm always eager to stay up-to-date on the latest developments in this field. Actually, this bio was written using ChatGPT in its early version.
+I’ve always been drawn to **science**, **puzzles**, and **challenges** — the kind that make you stop, think, and push boundaries.  
+I see art and technology as two sides of the same coin — both built from imagination and a spark of curiosity.
 
-Anyways, if you wanna stay in touch, reach me through [here](https://linktr.ee/shiro.fang).
+When I’m not creating or streaming, I’m probably experimenting with new ideas, exploring virtual worlds,  
+or working on freelance projects. If you want to connect, check out my [Linktree](https://linktr.ee/shiro.fang) —  
+you’ll find my socials and a few of my creative works there.
 
-<img width="35px" align="left" src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466"> <h5><p align="center" ><i>"Nothing is true, everything is connected"</i></p></h5>
+</div>
+
+<br>
+
+<img width="35px" align="left" src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466">  
+<b><p align="center"><i>“Only through darkness can light remember its purpose.”</i></p></b>
 
 <br>
 
 ```c#
 string World;
 
-while (World.equals("ordinary"))
+while (World == "ordinary")
 {
     string me = "unconventional";
 }
-```
-
-<!-- ![Snake animation](https://github.com/St4rkW0lf/St4rkW0lf/blob/output/github-contribution-grid-snake.svg) -->
-
-<!--
-<div>
-<a href="https://github.com/St4rkW0lf">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4rkW0lf&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=St4rkW0lf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
--->
