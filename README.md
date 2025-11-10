@@ -10,7 +10,7 @@
 <br>
 <img align="left" src="https://i.imgur.com/g2ChOGq.png" alt="bin_h4cker">
 
-### Hey there! [![pgp](https://img.shields.io/badge/404-User%20not%20found!-2f2f2f?style=flat-square&logoColor=white)](https://linktr.ee/shiro.fang)
+### Hey there! 🖤 [![pgp](https://img.shields.io/badge/404-User%20not%20found!-2f2f2f?style=flat-square&logoColor=white)](https://linktr.ee/shiro.fang)
 
 I'm **Wolf** — an **artist**, **gamer**, **streamer**, **developer**, and a **writer** whenever inspiration strikes.  
 Creativity and curiosity drive everything I do — from painting digital worlds to crafting code that comes alive.
@@ -35,7 +35,7 @@ you’ll find my socials and a few of my creative works there.
 <br>
 
 <img width="35px" align="left" src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466">  
-<b><p align="center"><i>“Only through darkness can light remember its purpose.”</i></p></b>
+<h5><p align="center"><i>“Only through darkness can light remember its purpose.”</i></p></h5>
 
 <br>
 
