@@ -8,7 +8,7 @@ Yo there, Wolf here, a big fan of **science** and **technology**. I've always be
 
 <br>
 
-<img align="right" src="https://pa1.narvii.com/5783/1aabec6a2305a4dc629404429e59ed7a1b8b5d63_hq.gif">
+<img align="right" src="https://i.imgur.com/VCfRtWV.gif">
 
 One area that I find particularly captivating is **security** and **cryptography**. There's just something about encryption, puzzles, and codes that really draws me in, and I've developed quite a crush on this complex and endlessly fascinating field.
 
